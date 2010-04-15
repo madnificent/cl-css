@@ -1,0 +1,5 @@
+# cl-css
+
+cl-css will become a library to aide css generation from within Common Lisp.
+
+cl-css isn't finished yet, please move along.
