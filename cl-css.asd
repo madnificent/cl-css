@@ -5,6 +5,6 @@
   :maintainer "Aad Versteden <madnificent@gmail.com>"
   :licence "BSD"
   :description "Common lisp CSS generator"
-  :depends-on ()
+  :depends-on (function-namespace cl-ppcre)
   :components ((:file "packages")
 	       (:file "base" :depends-on ("packages"))))
